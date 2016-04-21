@@ -1,2 +1,2 @@
-# rulerApp
+# RulerApp
 Basic ruler app in inches
